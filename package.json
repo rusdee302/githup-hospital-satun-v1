@@ -1,0 +1,37 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@inertiajs/vue3": "^1.0.0",
+        "@tailwindcss/forms": "^0.5.3",
+        "@tailwindcss/typography": "^0.5.15",
+        "@vitejs/plugin-vue": "^5.0.0",
+        "autoprefixer": "^10.4.19",
+        "axios": "^1.6.4",
+        "flowbite": "^2.3.0",
+        "laravel-vite-plugin": "^1.0",
+        "postcss": "^8.4.38",
+        "tailwindcss": "^3.4.3",
+        "vite": "^5.0",
+        "vue": "^3.4.0"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-vue": "^7.2.0",
+        "@tiptap/core": "^2.4.0",
+        "@tiptap/extension-underline": "^2.9.1",
+        "@tiptap/pm": "^2.9.1",
+        "@tiptap/starter-kit": "^2.9.1",
+        "@tiptap/vue-3": "^2.9.1",
+        "@vueup/vue-quill": "^1.2.0",
+        "ckeditor5": "^43.2.0",
+        "ckeditor5-premium-features": "^43.2.0",
+        "date-fns": "^3.6.0",
+        "laravel-precognition-vue": "^0.5.4",
+        "laravel-precognition-vue-inertia": "^0.5.4",
+        "vue-material-design-icons": "^5.3.1"
+    }
+}

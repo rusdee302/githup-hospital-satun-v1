@@ -1,0 +1,35 @@
+@keyframes fadeInUp {
+    0% {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateY(0%);
+        opacity: 1;
+    }
+}
+
+.fadeInUp-animation {
+    animation: 1.5s fadeInUp;
+}
+
+/* -------------------------- */
+.d-bg-color-1 {
+    background-color: #48783e;
+}
+
+.d-bg-color-2 {
+    background-color: #505392;
+}
+
+.d-bg-color-3 {
+    background-color: #df7947;
+}
+
+.d-bg-color-4 {
+    background-color: #497f89;
+}
+
+.d-bg-color-5 {
+    background-color: #981b22;
+}
